@@ -25,6 +25,7 @@ public class JavaApp2 {
         
         int solution = number * 2;
         System.out.println("The answer is " + solution);
+        System.out.println("hi");
     }
     
 }
